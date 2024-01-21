@@ -1,0 +1,54 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+body{
+   /* background-color: rgb(143, 133, 133); */
+   background-color: rgb(63, 61, 61);
+}
+.RegCon{
+  height: 545px;
+  width: 500px;
+  background-color: white;
+  border-radius: 15px; 
+  margin: 70px auto;
+}
+.RegCon h3{
+  font-weight: 700;
+
+}
+.sen{
+  height: 400px;
+  width: 450px;
+}
+.login{
+  height: 325px;
+  width: 400px;
+  background-color: white;
+  border-radius: 15px; 
+  margin: 130px auto;
+}
+.logsec{
+  width: 325px;
+}
+.card{
+  margin: 70px auto;
+  border-radius: 15px;
+  height: 430px;
+}
+.card img{
+  width: 250px;
+  height: 250px;
+}
+
+.instruction{
+  color: rgba(35, 35, 36, 0.671);
+}
+.editicon{
+  position: relative;
+  left: 80%;
+  top: -40%;
+  height: 60px;
+  width: 60px;
+}
